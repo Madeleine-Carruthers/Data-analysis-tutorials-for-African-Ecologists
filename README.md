@@ -1,7 +1,7 @@
 # Geometric-morphometrics
-### Introduction to landmark-based geometric morphometrics for ecologists
+## An introduction to landmark-based geometric morphometrics for ecologists
 
-This folder contains step-by-step tutorials for preparing and analysing morphological data using a geometric morphometrics approach. 
+This folder contains step-by-step tutorials on preparing and analysing morphological data using a geometric morphometrics approach. 
 
 All software used in the tutorials are available for free.
 
