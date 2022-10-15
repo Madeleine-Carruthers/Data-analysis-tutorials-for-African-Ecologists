@@ -3,19 +3,16 @@
 
 This folder contains step-by-step tutorials on preparing and analysing morphological data using a geometric morphometrics approach.
 
-## What is geometric morphometrics
-
 Geometric morphometrics is a powerful approach for quantifying biological shape variation between groups (e.g. between different populations or species), and can be used to look at how an organisms shape/morphology varies with other biotic or abiotic factors in their environment.
 
 Traditional morphometric analyses are based on linear distance-based measurements, such as head length, body depth, eye diameter (example in Figure A). While these can be highly informative, they do not provide good coverage of an organism’s overall morphology. Geometric morphometrics uses a set precisely located landmarks to capture morphology (example in Figure B). We can compare the relative positions of these landmarks configurations to get high coverage, detailed information on shape variation between individuals or groups.
 
-![Traditional_vs_GM_schematics](https://user-images.githubusercontent.com/74772641/195985251-065f05f4-004a-4f84-815b-b7f88ea27d04.jpg)
-
-
 In these tutorials we will introduce you to the practical and statistical methods used in geometric morphometrics. 
 
-
 All software used in the tutorials are available for free.
+
+![Traditional_vs_GM_schematics](https://user-images.githubusercontent.com/74772641/195985251-065f05f4-004a-4f84-815b-b7f88ea27d04.jpg)
+
 
 
 ## Software required
