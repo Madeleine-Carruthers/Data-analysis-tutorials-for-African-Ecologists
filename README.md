@@ -7,13 +7,20 @@ Geometric morphometrics is a powerful approach for quantifying biological shape 
 
 Traditional morphometric analyses are based on linear distance-based measurements, such as head length, body depth, eye diameter (Figure A). While these can be highly informative, they do not provide good coverage of an organism’s overall morphology. Geometric morphometrics uses a set of precisely located landmarks to capture morphology (Figure B). We can compare the relative positions of these landmarks configurations to get high coverage, detailed information on shape variation between individuals or groups.
 
-In these tutorials we will introduce you to the practical and statistical methods used in geometric morphometrics. 
-
-All software used in the tutorials are available for free.
-
 ![Traditional_vs_GM_schematics](https://user-images.githubusercontent.com/74772641/195985251-065f05f4-004a-4f84-815b-b7f88ea27d04.jpg)
 
 
+In these tutorials we will introduce you to the practical and statistical methods used in geometric morphometrics. 
+
+We will cover:
+
+1.	Collecting and preparing data
+2.	Selecting and digitising landmarks
+3.	Converting landmarks to shape variables
+4.	Data analysis
+5.	Data visualisation
+
+All software used in the tutorials are available for free.
 
 ## Software required
 
