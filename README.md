@@ -14,11 +14,11 @@ In these tutorials we will introduce you to the practical and statistical method
 
 We will cover:
 
-1.	Collecting and preparing data
+1.	Collecting and preparing digital images for geometric morphometrics
 2.	Selecting and digitising landmarks
-3.	Converting landmarks to shape variables
-4.	Data analysis
-5.	Data visualisation
+3.	Standardising landmark configurations across samples
+4.	Visualising shape varaition
+5.	Statistical analysis of shape variation
 
 All software used in the tutorials are available for free.
 
