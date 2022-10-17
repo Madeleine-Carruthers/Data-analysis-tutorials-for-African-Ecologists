@@ -35,6 +35,6 @@ MorphoJ - free to download from [https://morphometrics.uk/MorphoJ](https://morph
 
 ## Example data
 
-A practice dataset is provided in the folder “Example data”. The folder contains 20 image files (.jpg) and one metadata file (.csv). These data are taken from Carruthers et al. 2022 [https://doi.org/10.1101/2022.01.07.475335](https://doi.org/10.1101/2022.01.07.475335). Following the step-by-step guides in the tutorials we will quantify morphological variation in body shape between a shallow-water littoral population and a deep-water benthic population of the East African cichlid *Astatotilapia calliptera*. 
+A practice dataset is provided in the folder “Example data”. The folder contains 20 image files (.jpg) and one metadata file (.csv). These data are taken from Carruthers et al. 2022 ([https://doi.org/10.1101/2022.01.07.475335](https://doi.org/10.1101/2022.01.07.475335)). Following the step-by-step guides in the tutorials we will quantify morphological variation in body shape between a shallow-water littoral population and a deep-water benthic population of the East African cichlid *Astatotilapia calliptera*. 
 
 
