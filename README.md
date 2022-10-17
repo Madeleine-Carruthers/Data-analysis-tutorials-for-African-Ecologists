@@ -1,11 +1,11 @@
 # Geometric-morphometrics
-## An introduction to landmark-based geometric morphometrics for ecologists
+## A practical introduction to geometric morphometrics for ecologists
 
-This folder contains step-by-step tutorials on preparing and analysing morphological data using a geometric morphometrics approach.
+This folder contains step-by-step tutorials on preparing and analysing morphological data using a landmark-based geometric morphometrics approach.
 
-Geometric morphometrics is a powerful approach for quantifying biological shape variation between groups (e.g. between different populations or species), and can be used to look at how an organisms shape/morphology varies with other biotic or abiotic factors in their environment.
+Geometric morphometrics is a powerful method for quantifying biological shape variation between groups (e.g. between different habitats, populations, species), and can be used to look at how an organisms shape/morphology varies with other biotic or abiotic factors in their environment.
 
-Traditional morphometric analyses are based on linear distance-based measurements, such as head length, body depth, eye diameter (Figure A). While these can be highly informative, they do not provide good coverage of an organism’s overall morphology. Geometric morphometrics uses a set of precisely located landmarks to capture morphology (Figure B). We can compare the relative positions of these landmarks configurations to get high coverage, detailed information on shape variation between individuals or groups.
+Traditional morphometric analyses are based on linear distance-based measurements between two points, such as head length, body depth, eye diameter (Figure A). While these can be highly informative, they don't provide good coverage of an organism’s overall morphology. Geometric morphometrics uses a set of precisely located landmarks to capture high coverage morphological information (Figure B). We can compare the relative positions of these landmarks configurations to investigate shape variation between individuals or groups, and identify functionally important chnages in morphology associated with different ecological environments.
 
 ![Traditional_vs_GM_schematics](https://user-images.githubusercontent.com/74772641/195985251-065f05f4-004a-4f84-815b-b7f88ea27d04.jpg)
 
